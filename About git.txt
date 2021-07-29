@@ -6,5 +6,5 @@ Some important things to note when using git/github
 4) git status(checks status of current files within code folder as concerns git repo)
 5) git add . (adds all untracked changes to repo)
 6) git commit -m "message" (commits changes to repo with message)
-7) git push -u origin main (commits repo to online git)
+7) git push -u origin (commits repo to online git)
 8) git reset (removes files from stages before commit)
