@@ -1,0 +1,10 @@
+Some important things to note when using git/github
+
+1) git --version(what version of git is installed)
+2) change directory to folder where code is located
+3) git init(initialises repository in code folder)
+4) git status(checks status of current files within code folder as concerns git repo)
+5) git add . (adds all untracked changes to repo)
+6) git commit -m "message" (commits changes to repo with message)
+7) git push -u origin main (commits repo to online git)
+8) git reset (removes files from stages before commit)
