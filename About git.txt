@@ -8,3 +8,35 @@ Some important things to note when using git/github
 6) git commit -m "message" (commits changes to repo with message)
 7) git push -u origin (commits repo to online git)
 8) git reset (removes files from stages before commit)
+
+
+web host: server space to save files on the internet
+domain name: unique address to find your web site
+
+element: is the basic block of html code.
+elements are made up of tags and content
+tags: open tags, close tags and self closing tags
+open tags: are the first tags in an element <"tag name">
+close tags: are the last tags in an element </"tag name">
+
+img tag
+1. Relative location
+two ways of accessing images(relatively)
+./images/n.jpg : access image within the same folder
+../images/bb/hh.png : access outside the folder
+
+2. Absolute location
+accessing images from internet etc are called absolute location
+
+html ignores white space
+
+some tags
+
+<b></b> , <strong></strong> - bold
+<em></em> - italize
+<sup></sup> - power
+<del></del> - strike through
+<ins></ins>- underline
+<a></a> anchor hyperlink
+
+https://github.com/inioluwa14/multiplePages

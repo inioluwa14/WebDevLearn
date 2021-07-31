@@ -1,0 +1,18 @@
+CSS
+
+1. inline css : style = "property:value; property:value; " (most specific)
+2. internal css (next)
+3. external css (least specific)
+
+css specificity
+css syntax
+
+element{
+	property:value;
+	property:value;
+}
+
+Assignment
+
+1) Research Github pages with github
+2) Create three pages that are linked together with working hyperlinks and contents
