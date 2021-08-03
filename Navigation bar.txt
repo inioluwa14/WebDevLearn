@@ -1,0 +1,3 @@
+menu bar = nav bar= navigation bar
+
+Best way for creating a nav bar is the flex box

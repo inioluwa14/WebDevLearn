@@ -1,0 +1,17 @@
+.first {
+    color:crimson;
+}
+#tech {
+    color: cornflowerblue;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+  ul{
+      list-style-type: none;
+  }

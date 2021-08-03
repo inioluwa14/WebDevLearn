@@ -1,0 +1,58 @@
+LISTS
+
+1. Ordered lists
+2. Unordered lists
+3. Description list
+
+syntax
+1.
+If you want to start counting from a specified number, 
+you can use the start attribute
+<ol type="" start=""> ordered list
+    <li></li> list item
+</ol> 
+
+2.
+<ul> unordered list
+    <li></li> list item
+</ul> 
+
+3.
+<dl> description list
+    <dt>Tea</dt> description terms
+    <dd>Black Tea</dd> description description
+</dl> 
+
+
+Block and inline Elements
+
+Every elements in HTML has a default display type either  
+block display or inline display
+
+A block element is an element that takes the full width 
+of the screen available when it displays. e.g h1, p
+
+An inline element takes only the width necessary to 
+display the element e.g strong, em
+
+DIV AND SPAN
+div and span are used for making selections
+The <div> element is a block-level element
+span - is an inline element
+Note: An inline element cannot contain a block-level 
+element!
+
+Classes and ID - used for working in css
+
+id - used for unique identification of just one item/element
+class - used for grouping, when we have to group. Apart from styling, id are be used for anchoring unique points with our page 
+multiple items/elements and want to give them the 
+same style/attribute that are together
+
+TABLES
+
+A table is an arrangement of information/data in rows and colums
+<table>
+  <tr> :table row
+  <th> :table header
+  <td> :table data
